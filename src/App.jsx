@@ -34,7 +34,6 @@ export const App = () => {
     }
    
 
-    console.log(selectedOptions);
   }
   return (
     <div className='container'>
